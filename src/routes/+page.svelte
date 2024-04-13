@@ -9,8 +9,8 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<section>
-	<h1>
+<section style="border-radius: 10%; max-width: 100%; width: 1006px; background-color: #000000;">
+	<h1 style="color: #ffffff;">
 		<span class="welcome">
 			<picture>
 				<source srcset={welcome} type="image/webp" />
@@ -21,8 +21,8 @@
 		to your new<br />SvelteKit app
 	</h1>
 
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+	<h2 style="color: #ffffff;">
+		try editing <strong style="color: #ffffff;">src/routes/+page.svelte</strong>
 	</h2>
 
 	<Counter />
