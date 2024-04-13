@@ -6,7 +6,7 @@
 <div class="app">
 	<Header />
 
-	<main>
+	<main style="border-radius: 70%; background-color: #949494; max-width: 894px;">
 		<slot />
 	</main>
 
