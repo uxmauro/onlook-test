@@ -9,7 +9,7 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<section style="border-radius: 10%; max-width: 100%; width: 1006px; background-color: #000000;">
+<section style="border-radius: 10%; max-width: 100%; width: 1006px; background-color: #ff0000; opacity: 147%; overflow: auto;"></section>
 	<h1 style="color: #ffffff;">
 		<span class="welcome">
 			<picture>
