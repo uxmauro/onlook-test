@@ -3,7 +3,7 @@
 	import './styles.css';
 </script>
 
-<div class="app">
+<div class="app" style="padding-left: 0px;">
 	<Header />
 
 	<main style="border-radius: 70%; background-color: #949494; max-width: 894px;">
